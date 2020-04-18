@@ -1,0 +1,21 @@
+$color: red;
+$mergin-right: 15%;
+$mergin: 20px;
+ul {
+    background-color: $color;
+    height: 100%;
+    margin: $mergin;
+    padding: 20px
+}
+
+ol {
+    background-color: $color;
+    height: 100%;
+    border-radius: 10px;
+}
+
+table {
+    color: $color;
+    margin-right: $mergin-right;
+    margin-left: 10%;
+}

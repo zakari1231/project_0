@@ -1,0 +1,19 @@
+ul {
+  background-color: red;
+  height: 100%;
+  margin: 20px;
+  padding: 20px;
+}
+
+ol {
+  background-color: red;
+  height: 100%;
+  border-radius: 10px;
+}
+
+table {
+  color: red;
+  margin-right: 15%;
+  margin-left: 10%;
+}
+/*# sourceMappingURL=variable.css.map */
